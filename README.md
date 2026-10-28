@@ -18,12 +18,12 @@ Most of my work is with **Python, FastAPI, TypeScript, Next.js and PostgreSQL**.
 
 ### 🛠️ Tech stack
 
-**Languages:** Python, TypeScript, JavaScript, C#, Java
-**Frontend:** Next.js, React, AngularJS, Tailwind CSS
-**Backend:** FastAPI, Node.js, Express, .NET, REST APIs, Temporal
-**Databases:** PostgreSQL, MongoDB, Redis, SQLAlchemy
-**Cloud & DevOps:** Docker, AWS, GitHub Actions, Linux
-**Testing:** pytest, Jest, Playwright
+- **Languages:** Python, TypeScript, JavaScript, C#, Java
+- **Frontend:** Next.js, React, AngularJS, Tailwind CSS
+- **Backend:** FastAPI, Node.js, Express, .NET, REST APIs, Temporal
+- **Databases:** PostgreSQL, MongoDB, Redis, SQLAlchemy
+- **Cloud & DevOps:** Docker, AWS, GitHub Actions, Linux
+- **Testing:** pytest, Jest, Playwright
 
 ### 🤝 Let's connect
 
