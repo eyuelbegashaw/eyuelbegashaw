@@ -24,6 +24,7 @@ Most of my work is with **Python, FastAPI, TypeScript, Next.js and PostgreSQL**.
 - **Databases:** PostgreSQL, MongoDB, Redis, SQLAlchemy
 - **Cloud & DevOps:** Docker, AWS, GitHub Actions, Linux
 - **Testing:** pytest, Jest, Playwright
+- **AI:** AI-assisted development, Cursor, Claude Code, GitHub Copilot, OpenAI API, Anthropic API, Prompt engineering
 
 ### 🤝 Let's connect
 
